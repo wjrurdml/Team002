@@ -10,5 +10,10 @@
 	<h1>원진이 만든 문서</h1>
 	<h2>주민철</h2>
 	<h3>민처리형 파이팅!!</h3>
+=======
+	ㅋㅋㅋㅋㅋㅋㅋㅋ
+	ㅋㅋㅋㅋㅋㅋㅋ
+>>>>>>> branch 'Team002_01' of https://github.com/wjrurdml/Team002.git
+ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 </body>
 </html>
