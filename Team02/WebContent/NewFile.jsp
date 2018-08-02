@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h3>원진이 세번째수정</h3>
 	<h1>원진이 만든 문서</h1>
 <<<<<<< HEAD
 	<h2>주민철</h2>
